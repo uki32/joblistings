@@ -1,10 +1,10 @@
 To run the app
 
-download the zipped file, unpack to your desired location, in cmd run commands:
-composer install
-php artisan migrate
-php artisan db:seed |to test-fill the migrated database.
-php artisan serve
+download the zipped file, unpack to your desired location, in cmd run commands: /n
+composer install /n
+php artisan migrate /n
+php artisan db:seed |to test-fill the migrated database. /n
+php artisan serve /n
 
 home page url should contain no additional routes in the end of url and should look like e.g. 'http://127.0.0.1:8000'
 
